@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "575327497680",
+    "project_id": "pushtotalk-32f06",
+    "storage_bucket": "pushtotalk-32f06.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:575327497680:android:f47784054a92c40baf1dd5",
+        "android_client_info": {
+          "package_name": "ru.adonixis.pushtotalk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "575327497680-0giaood31qfkd1u550iqoo942n9ind05.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ru.adonixis.pushtotalk",
+            "certificate_hash": "8aa26d80a47a074a461642e016060945baecf3be"
+          }
+        },
+        {
+          "client_id": "575327497680-om88pvgkpdralk0bgo12e61rgjpns3dh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ru.adonixis.pushtotalk",
+            "certificate_hash": "59dc73088d80e583f61ca47bc354608ee564cffa"
+          }
+        },
+        {
+          "client_id": "575327497680-3131sllpevhtphk9nhokbqhhgsdr4d5k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdJHpIFgM7WgRdJ9wLJw-r9HGaeDdpZi4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "575327497680-3131sllpevhtphk9nhokbqhhgsdr4d5k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
